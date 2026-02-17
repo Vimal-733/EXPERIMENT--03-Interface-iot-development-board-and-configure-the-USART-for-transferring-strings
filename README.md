@@ -111,8 +111,8 @@ int main(void)
   MX_USART2_UART_Init();
   while (1)
   {
-     printf("RAHUL VIJAY V\n");
-     printf("212223040164\n");
+     printf("saveetha engineering college V\n");
+     printf("scoft\n");
      HAL_Delay(500);
   }
 }
